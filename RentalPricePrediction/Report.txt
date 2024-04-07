@@ -1,1 +1,11 @@
-
+This project involves a comprehensive analysis of a real estate dataset obtained from
+Immoscout24, focusing on rental properties in Germany. The study encompasses four distinct
+phases: essential data preprocessing tasks, regression for predicting total rent, classification to
+categorize rent as high or low, and clustering to identify property patterns. The dataset,
+collected at three time points, includes critical property attributes and text descriptions.
+Through regression, the project seeks to understand factors influencing rental pricing, while
+clustering and classification aim to uncover patterns and categorize properties based on
+similarities. The data preprocessing phase ensures dataset readiness for analysis by handling
+missing values and encoding variables. This holistic approach provides valuable insights into
+rental dynamics, property segmentation, and correlations between features, offering actionable
+intelligence for real estate market stakeholders.
